@@ -35,3 +35,18 @@
 - https://youtu.be/N-PkIszSH3o auto-update problem
 - https://youtu.be/Os8okwKS0cY 10/1/2021  groupwork with Unmesh
 - https://www.youtube.com/watch?v=EQdGDTt_T_A sync your fork 14/1/2021
+
+
+### editing commands - examples:
+
+//extract audio
+ffmpeg -i /home/user/B.mp4 -vn -acodec copy /home/user/B.mp3
+
+//extract video
+ffmpeg -i /home/user/B.mp4 -an -vcodec copy /home/user/B_vid.mp4
+
+//volume up
+ffmpeg -i /home/user/B.mp3 -filter:a "volume=22" /home/user/B_up.mp3
+
+//mux video and audio
+ffmpeg -i /home/user/B_vid.mp4 -i /home/user/B_up.mp3 -c copy /home/user/HYF_study_group_2020-11-25_B.mp4
