@@ -1,6 +1,7 @@
 # videos class 11-12
 
-### Bermarte
+### Bermarte playlist https://www.youtube.com/playlist?list=PLlDk-vkPxtou53r-oNn5nCTmQJh2ArG0P
+
 - https://youtu.be/pR4CS1-nnHk (HYF: my first issue) 25/9/2020
 - https://youtu.be/Us0JRjneDy8 (HYF: how to change milestone) 26/9/2020
 - https://youtu.be/W_bJ_kFPD9s Hack Your Future class 11-12 2020 class 4 -Tiago
@@ -35,7 +36,8 @@
 - https://youtu.be/N-PkIszSH3o auto-update problem
 - https://youtu.be/Os8okwKS0cY 10/1/2021  groupwork with Unmesh
 - https://www.youtube.com/watch?v=EQdGDTt_T_A sync your fork 14/1/2021
---
-- https://youtu.be/4LwVC1osbKE 7/2/2021 exercises (1 of 3) asynchronous-programming week #2
+
+    --    
 - https://youtu.be/L-zsCj_HxMA 7/2/2021 exercises (2 of 3) asynchronous-programming week #2
 - https://youtu.be/istAWS-8WR0 7/2/2021 exercises (3 of 3) asynchronous-programming week #2
+- https://youtu.be/4LwVC1osbKE 14/2/2021 exercises (1 of 3) asynchronous-programming
