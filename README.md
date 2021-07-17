@@ -76,3 +76,14 @@
 - https://youtu.be/mHRtjnTKHew 13/05/2021 work session for the final assignment #5
 - https://youtu.be/wQgEEEDqQPk 19/05/2021 work session for the final assignment -backend
 
+### FFmpeg editing commands - examples:
+
+- extract audio    
+`ffmpeg -i /home/user/B.mp4 -vn -acodec copy /home/user/B.mp3`
+- extract video    
+`ffmpeg -i /home/user/B.mp4 -an -vcodec copy /home/user/B_vid.mp4`
+- volume up    
+`ffmpeg -i /home/user/B.mp3 -filter:a "volume=22" /home/user/B_up.mp3`
+- mux video and audio    
+`ffmpeg -i /home/user/B_vid.mp4 -i /home/user/B_up.mp3 -c copy /home/user/HYF_study_group_2020-11-25_B.mp4`
+
