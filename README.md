@@ -40,4 +40,22 @@
     --    
 - https://youtu.be/L-zsCj_HxMA 7/2/2021 exercises (2 of 3) asynchronous-programming week #2
 - https://youtu.be/istAWS-8WR0 7/2/2021 exercises (3 of 3) asynchronous-programming week #2
-- https://youtu.be/4LwVC1osbKE 14/2/2021 exercises (1 of 3) asynchronous-programming
+- https://youtu.be/4LwVC1osbKE 14/2/2021 exercises (1 of 3) asynchronous-programming week #3
+- https://youtu.be/ytdKQeGTiuA 14/2/2021 exercises (2 of 3) asynchronous-programming week #3
+- https://youtu.be/mEjMr-ah48s 14/2/2021 exercises (3 of 3) asynchronous-programming week #3
+- https://youtu.be/iHXW4CABi8Q 21/2/2021 hatch the chick
+- https://youtu.be/hTiTpTeCPbQ 21/2/2021 exercises with Andrej Gajduk #1
+- https://youtu.be/bF_HolLLhLk 21/2/2021 exercises with Andrej Gajduk #2
+- https://youtu.be/QtQ3Z2E1eUo 21/2/2021 web-applications - exercise review (Mosh tutorial)
+- https://youtu.be/fxKX2eOiMc4 28/2/2021 exercises with Shaun #1
+- https://youtu.be/u490HWq4EcE 28/2/2021 exercises with Shaun #2
+- https://youtu.be/rbXdkmGFd2A 28/2/2021 review exercise diy-wiki
+- https://youtu.be/vV8eOyN51gY 4/3/2021 review exercise diy-wiki
+- https://youtu.be/cwh8LnB_fvM  1/2/2021 group meeting - deployment on Heroku (proxy)
+- https://youtu.be/7bB1wBWdZZQ 1/3/2021 group meeting - restful courses exercise
+- https://youtu.be/TerbwbYFosM 7/3/2021 web apps #1
+- https://youtu.be/jKb3Q-oeq8I 7/3/2021 web apps #2
+- https://youtu.be/Xeb3xWYJUG8 7/3/2021 web apps #3
+- https://youtu.be/NQtAFJotfZM 23/3/2021 group 2 meeting
+- https://youtu.be/qEBtRAze9rk 26/3/2021 group 2 meeting
+
