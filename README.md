@@ -35,3 +35,7 @@
 - https://youtu.be/N-PkIszSH3o auto-update problem
 - https://youtu.be/Os8okwKS0cY 10/1/2021  groupwork with Unmesh
 - https://www.youtube.com/watch?v=EQdGDTt_T_A sync your fork 14/1/2021
+--
+- https://youtu.be/4LwVC1osbKE 7/2/2021 exercises (1 of 3) asynchronous-programming week #2
+- https://youtu.be/L-zsCj_HxMA 7/2/2021 exercises (2 of 3) asynchronous-programming week #2
+- https://youtu.be/istAWS-8WR0 7/2/2021 exercises (3 of 3) asynchronous-programming week #2
