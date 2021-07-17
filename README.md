@@ -35,7 +35,7 @@
 - https://youtu.be/z0VngPuCCds Koen 18/12/2020
 - https://youtu.be/N-PkIszSH3o auto-update problem
 - https://youtu.be/Os8okwKS0cY 10/1/2021  groupwork with Unmesh
-- https://www.youtube.com/watch?v=EQdGDTt_T_A sync your fork 14/1/2021
+- https://youtu.be/EQdGDTt_T_A 14/1/2021 sync your fork
 - https://youtu.be/f2nM1X9ySp4 17/1/2021 group work with Thibault - encapsulation
 - https://youtu.be/e5JcfEmBqZU 18/1/2021 group meeting, average with Samir - encapsulation
 - https://youtu.be/eZs9GwT4j-g 24/1/2021 exercise with Thibault - encapsulation
