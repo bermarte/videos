@@ -89,12 +89,11 @@
 - cut/trim video and audio    
 `ffmpeg -ss 00:33:52 -i zoom_0.mp4 -to 00:41:07 -c:v copy -c:a copy trim_last.mp4`
 - concatenate clips    
-`
-echo file start.mp4 >  list.txt 
-echo file middle.mp4 >> list.txt
-echo file end.mp4 >> list.txt
+`echo file start.mp4 >  list.txt`    
+`echo file middle.mp4 >> list.txt`    
+`echo file end.mp4 >> list.txt`    
 
-ffmpeg -f concat -i list.txt -c copy video.mp4
-`- fix bad file    
+`ffmpeg -f concat -i list.txt -c copy video.mp4`    
+- fix bad file    
 `ffmpeg -err_detect ignore_err -i bad.mp4 -c copy fixed.mp4`
 
