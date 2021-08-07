@@ -86,4 +86,6 @@
 `ffmpeg -i /home/user/B.mp3 -filter:a "volume=22" /home/user/B_up.mp3`
 - mux video and audio    
 `ffmpeg -i /home/user/B_vid.mp4 -i /home/user/B_up.mp3 -c copy /home/user/HYF_study_group_2020-11-25_B.mp4`
+- cut/trim video and audio
+`ffmpeg -ss 00:33:52 -i zoom_0.mp4 -to 00:41:07 -c:v copy -c:a copy trim_last.mp4`
 
